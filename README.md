@@ -1,1 +1,1 @@
-Olá, nesse projeto você aprenderá alguns comandos do Git
+Olá, nesse projeto você verá o meu projeto de site que pretendo usar HTML como linguagem de marcação, CSS como estilização e Javascrypt como linguagem de programação.
