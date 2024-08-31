@@ -1,0 +1,15 @@
+<!DOCTYPE html> serve para o navegador que o tipo de documento é HTML
+
+<html> servem para deixar mais fácil o entendimento do navegador.
+
+<tittle> título do site
+
+<head> tudo que ficar nela será o cabeçalho do respectivo site.
+
+<body> tag que fica as principais informações do site.
+
+<h1> é um titulo para o site.
+
+<p> para criação de parágrafos.
+
+<b> para criação de palavras em negritos.
